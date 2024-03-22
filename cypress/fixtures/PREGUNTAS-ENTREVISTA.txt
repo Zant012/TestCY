@@ -1,0 +1,137 @@
+1)
+"Háblame de ti" 
+=> primero lo personal, luego lo profesional
+=> Conocer lo mas posible de la persona, pero No a profundidad
+=> siempre manten el aire de charla, no empiezes a nombrar "conocimientos" o "habilidades" como si leyeras de una lista.
+=> crear un pitch/historia a partir de lo que ya llenamos en la hoja de vida.
+
+1.quien soy, con quién vivo, donde vivo.
+
+2.que me apasiona.
+-recuerda el acerca de (linkedIn)
+-Hobbies, o actividades en tiempos libres.
+
+3.formación profesional.
+
+4.experiencia con industrias.
+
+5.conocimientos tecnicos.
+
+6.habilidades blandas
+
+7.match de mis habilidades con la vacante y la empresa
+
+---------
+
+2)
+Hablame de 2 fortalezas y 2 areas de mejora con las que te identifiques
+=> para conocer el nivel de autoconomiento que pueda tener la persona de si mismo, y como ese autoconocimiento puede generar beneficios
+Mostrar habilidades blandas en una entrevista?
+-Identifica las habilidades que necesita la vacante
+-Empatiza con el entrevistador
+-Comprobación o plan de acción
+
+
+1.Fortalezas: Escoge 1-2 de esta lista,(u otras relevantes) y explicalas.
+trabajo en equipo, liderazgo, resolución de conflictos, adaptabilidad, flexibilidad, creatividad, aprendizaje continuo/auto-aprendizaje.
+
+2.Oportunidades de mejora: Cosas que no afecten directamente la vacante. 
+Dependiendo del trabajo, no puedo decir "algo de nervios al hablar" si esta relacionado a lo que hago.
+=> No pongas falencias de verdad, sino solo cosas que te hagan ver bien a ojos de un empleador.
+
+Ejemplos: 
+
+-Verificación constante:
+Cuando son trabajos extensos, suelo hacer verificación de las cosas que hago. Y mucha verificación puede atrasar los tiempos de entrega. Lo que estoy haciendo ahora es que defino cuando son los puntos que voy a realizar una revisión antes de comenzar a trabajar. Por ejemplo, si termino una tarea en un 50% entonces hago una revisión.
+
+-Auto critica:
+En algunas ocasiones, cuando algunas cosas no salen al 100% me enfocaba mucho en las cosas que no se lograron en vez de las cosas que si se lograron. Lo que hago es hacer un listado de las cosas que Si logre, y hago insight de como las logre. También un listado de las cosas que no se lograron y como mejorarlas para poder llegar a un 100% en tareas futuras.
+
+
+-------------------
+
+3) Que evalúan los entrevistadores cuando hablas de tu experiencia profesional?
+-Objetivo del cargo: cual fue el principal reto? que vacio entraste a llenar?
+-Plan de acción: que plan de acción implementaste para solucionarlo?
+-Cuales fueron tus resultados?
+
+=> Star method
+https://www.indeed.com/career-advice/resumes-cover-letters/star-method-resume
+
+
+-------------------
+
+4) 
+Como cerrar una entrevista?
+Objetivo: Conseguir una siguiente entrevista haciendo preguntas que te ayuden a sobresalir.
+
+Interés, Cultura, Cierre
+
+Ejemplos:
+-Que se espera lograr con mi gestion?
+-Como es un día normal de trabajo en la empresa?
+-Como manejan el crecimiento profesional y las capacitaciones dentro de la empresa?
+-Como es el proceso de contratación para este rol?
+-Cual es el motivo de esta vacante?
+-> Si es crecimiento, preguntar cuantas personas estan siendo contratadas en los distintos roles, y si ya se han llenado los demás cargos.
+
+-A quien se reporta este cargo? Cual es la estructura del equipo?
+
+
+Links de ejemplos:
+https://arc.dev/developer-blog/questions-to-ask-recruiters/?utm_source=sendgrid&utm_medium=email&utm_campaign=arc-newsletter&utm_content=20230410
+
+https://www.indeed.com/career-advice/finding-a-job/what-to-know-about-a-company-before-an-interview
+
+-------------------
+
+PREGUNTAS
+
+- Hide this in the Job Interview
+https://www.youtube.com/watch?v=S96OH6_Nfn8&t=304s&ab_channel=SelfMadeMillennial
+
+- COMO DECIR "no tengo tanta experiencia en eso" en vez de decir "No lo se":
+"No he tenido la oportunidad de ejecutarlo en mi trabajo, pero he hecho cursos y en estos momentos estoy estudiandolo y afianzando mis habilidades tanto en Angular como en React".
+
+
+1)
+Cuentame el logro más significativo en tu experiencia?
+=> preguntas situacionales, que llevan a que cuentas una anecdota de algo que ya viviste.
+=> se hacen para poder evaluar esas hard y soft skills que tiene esa persona, y poder determinar como te desenvuelves en el día a día.
+
+=> Situacion de logro/exito es lo mismo.
+=> situación dificil o de fracaso es casi lo mismo.
+
+Usualmente vamos a intentar tener en cuenta 1 situacion de logro/exito (al menos), y una de fracaso.
+
+Metodo Star
+Situación, tarea, acción y resultado.
+
+-Situación: dar contexto de lo que estaba pasando
+=> enfocarse en dar buen contexto antes!
+
+-Tarea: que era lo que debía hacer
+-Acción: que acciones tomé para resolverla
+-Resultado: cuales fueron los resultados
+
+Logro/exito
+-Las interfaces graficas para reducir el tiempo requerido para realizar tareas en una aplicación.
+
+Fracaso
+-Enfocar al aprendizaje en vez del resultado
+
+
+
+
+2) 
+Cual es tu propuesta de valor?
+
+Porque te fuiste sin tener nada seguro?
+
+
+3) 
+Como te ves de aqui a 5 años?
+
+How to Answer “Where Do You See Yourself in 5 Years?” in an Interview
+https://www.youtube.com/watch?v=drRjHnaVP48&ab_channel=SelfMadeMillennial
+

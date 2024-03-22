@@ -1,0 +1,27 @@
+{
+  "name": "cypress_e2e",
+  "version": "1.0.0",
+  "description": "E2E testing cypress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "E2E",
+    "automation",
+    "framework",
+    "cypress"
+  ],
+  "author": "Santiago",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
